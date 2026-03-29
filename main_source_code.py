@@ -1,9 +1,6 @@
 import requests
-from dotenv import load_dotenv
-import os
 
-load_dotenv()
-API_KEY = os.getenv("API_KEY")
+API_KEY = "265515c01d26a1fe6ce3b15b3a74bd4d"
 
 # Function to search movie and get ID
 def search_movie(movie_name):
