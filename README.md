@@ -46,7 +46,7 @@ What2Watch is an AI/ML-powered movie recommendation system built using Python an
 4. Run the program:
 
    ```
-   python main.py
+   main_source_code.py
    ```
 
 ---
@@ -84,6 +84,23 @@ Recommended Movies:
 - Doctor Strange
 - Guardians of the Galaxy
 ```
+
+---
+
+## 📂 Output Screenshots
+
+1.This screenshot shows the command-line interface of the Movie Recommendation System running successfully. The user is presented with options to either get movie recommendations or exit the program. The system is ready to accept user input and provide recommendations based on the entered movie name.
+<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/08736151-3c67-4485-96d5-445f3602dddd" />
+
+2.This screenshot shows the user interacting with the Movie Recommendation System through the command-line interface. The user selects the option to get recommendations and enters the movie name "Chennai Express", after which the system processes the input to fetch similar movie suggestions using the TMDb API.
+<img width="1341" height="732" alt="image" src="https://github.com/user-attachments/assets/5fd7a14e-cb85-4804-84af-19144ea17f52" />
+
+3.This screenshot shows the successful output of the Movie Recommendation System. After the user enters the movie "Chennai Express", the system fetches and displays a list of recommended movies such as "Lost Ladies", "Ajab Prem Ki Ghazab Kahani", "Water", "Jab We Met", and "Picture This". This demonstrates the system's ability to generate relevant movie suggestions using the TMDb API.
+<img width="1366" height="730" alt="image" src="https://github.com/user-attachments/assets/159e1e2c-b721-4192-b677-a1a15cdda6d3" />
+
+4.This screenshot shows the exit phase of the Movie Recommendation System. After completing the task, the user selects the exit option (choice 2), and the program terminates successfully by displaying a “Goodbye” message, indicating smooth and user-friendly program flow.
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/24d36849-fa5a-412d-93a1-9bc5ad4a338b" />
+
 
 ---
 
