@@ -107,8 +107,10 @@ Recommended Movies:
 ## 📂 Project Structure
 
 ```id="z4v8pn"
+Project_Report
 README.md
-main.py
+main_source_code.py
+statement.md
 ```
 
 ---
